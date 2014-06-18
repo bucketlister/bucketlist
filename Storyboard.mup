@@ -1,0 +1,79 @@
+{
+  "title": "Storyboard",
+  "id": 1,
+  "formatVersion": 2,
+  "attr": {
+    "storyboards": [
+      "Storyboard 1"
+    ],
+    "style": {}
+  },
+  "ideas": {
+    "1": {
+      "title": "Register",
+      "id": 5,
+      "ideas": {
+        "1": {
+          "title": "User Choose which google acount to use",
+          "id": 2,
+          "attr": {
+            "storyboard-scenes": [
+              {
+                "storyboards": {
+                  "Storyboard 1": 4
+                }
+              }
+            ],
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Add to settings",
+              "id": 6
+            },
+            "2": {
+              "title": "Add Item Text",
+              "id": 7,
+              "attr": {
+                "storyboard-scenes": [
+                  {
+                    "storyboards": {
+                      "Storyboard 1": 5
+                    }
+                  }
+                ],
+                "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "Edit Item",
+                  "id": 8,
+                  "attr": {
+                    "storyboard-scenes": [
+                      {
+                        "storyboards": {
+                          "Storyboard 1": 6
+                        }
+                      }
+                    ],
+                    "style": {}
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "attr": {
+        "storyboard-scenes": [
+          {
+            "storyboards": {
+              "Storyboard 1": 3
+            }
+          }
+        ],
+        "style": {}
+      }
+    }
+  }
+}
