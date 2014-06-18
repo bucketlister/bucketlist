@@ -1,0 +1,125 @@
+{
+  "title": "Bucket List",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Checklist",
+      "id": 2,
+      "ideas": {
+        "3": {
+          "title": "Item",
+          "id": 7,
+          "ideas": {
+            "1": {
+              "title": "Add picture",
+              "id": 8,
+              "ideas": {
+                "1": {
+                  "title": "Use Camera",
+                  "id": 16
+                }
+              }
+            },
+            "2": {
+              "title": "Add video",
+              "id": 9,
+              "ideas": {
+                "1": {
+                  "title": "Use Camera",
+                  "id": 17
+                }
+              }
+            },
+            "3": {
+              "title": "Add audio",
+              "id": 10,
+              "ideas": {
+                "1": {
+                  "title": "Use Camera?",
+                  "id": 18
+                }
+              }
+            },
+            "4": {
+              "title": "Add Text",
+              "id": 11,
+              "ideas": {
+                "1": {
+                  "title": "In App",
+                  "id": 19
+                }
+              }
+            },
+            "5": {
+              "title": "Item Publish",
+              "ideas": {
+                "1": {
+                  "title": "Blogger",
+                  "id": 25
+                },
+                "2": {
+                  "title": "Other App",
+                  "id": 26
+                }
+              },
+              "id": 22,
+              "attr": {
+                "style": {}
+              }
+            },
+            "6": {
+              "title": "Item progress",
+              "id": 23,
+              "attr": {
+                "style": {}
+              }
+            },
+            "7": {
+              "title": "Item steps till done",
+              "id": 24,
+              "attr": {
+                "style": {}
+              }
+            },
+            "8": {
+              "title": "Share immediate",
+              "id": 30,
+              "ideas": {
+                "1": {
+                  "title": "SMSContact",
+                  "id": 31
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "-1": {
+      "title": "Sharing",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "Access contacts",
+          "id": 29
+        }
+      }
+    },
+    "-0.5": {
+      "title": "Settings",
+      "id": 15,
+      "ideas": {
+        "1": {
+          "title": "Picasso login",
+          "id": 27
+        },
+        "2": {
+          "title": "Blogger login",
+          "id": 28
+        }
+      }
+    }
+  },
+  "links": []
+}
