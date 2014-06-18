@@ -34,8 +34,12 @@
 /secure/Shares/drew/Projects/BucketList/bucketlist/hello/platforms/android/assets/www/index.html \
 /secure/Shares/drew/Projects/BucketList/bucketlist/hello/platforms/android/assets/www/js \
 /secure/Shares/drew/Projects/BucketList/bucketlist/hello/platforms/android/assets/www/cordova.js \
+/secure/Shares/drew/Projects/BucketList/bucketlist/hello/platforms/android/assets/www/plugins \
 /secure/Shares/drew/Projects/BucketList/bucketlist/hello/platforms/android/assets/www/cordova_plugins.js \
 /secure/Shares/drew/Projects/BucketList/bucketlist/hello/platforms/android/assets/www/css/index.css \
 /secure/Shares/drew/Projects/BucketList/bucketlist/hello/platforms/android/assets/www/img/logo.png \
 /secure/Shares/drew/Projects/BucketList/bucketlist/hello/platforms/android/assets/www/js/index.js \
+/secure/Shares/drew/Projects/BucketList/bucketlist/hello/platforms/android/assets/www/plugins/org.apache.cordova.splashscreen \
+/secure/Shares/drew/Projects/BucketList/bucketlist/hello/platforms/android/assets/www/plugins/org.apache.cordova.splashscreen/www \
+/secure/Shares/drew/Projects/BucketList/bucketlist/hello/platforms/android/assets/www/plugins/org.apache.cordova.splashscreen/www/splashscreen.js \
 /secure/Shares/drew/Projects/BucketList/bucketlist/hello/platforms/android/ant-build/AndroidManifest.xml \
